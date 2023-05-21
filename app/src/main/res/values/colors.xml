@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lightLime">#FFF0EDDC</color>
+    <color name="lime">#FFE3E1BC</color>
+    <color name="opaqueLime">#80F0EDDC</color>
+</resources>
